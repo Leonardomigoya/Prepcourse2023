@@ -1,2 +1,1 @@
-# Prepcourse2023
-prepcourse2023
+primer prueba de como crear un repositorio, modificarlo y subirlo a github
